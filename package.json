@@ -12,7 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "@webcomponents/webcomponentsjs": "*",
-    "lit": "*"
+    "lit": "*",
+    "lit-element": "3.2.2"
   },
   "devDependencies": {
     "eslint": "*",
