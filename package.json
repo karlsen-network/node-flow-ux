@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspectron/flow-ux"
+    "url": "git+https://github.com/karlsen-network/node-flow-ux"
   },
   "keywords": [],
   "license": "MIT",
@@ -25,11 +25,18 @@
   "scripts": {
     "docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
   },
-  "author": {
-    "name": "ASPECTRON Inc.",
-    "email": "info@aspectron.com",
-    "url": "https://aspectron.com"
-  },
+  "authors": [
+    {
+      "name": "ASPECTRON Inc",
+      "email": "info@aspectron.com",
+      "url": "https://aspectron.com"
+    },
+    {
+      "name": "Karlsen Developers",
+      "email": "lemois1337@protonmail.com",
+      "url": "https://karlsencoin.com"
+    }
+  ],
   "files": [
     "flow-ux.js",
     "flow-ux.css",

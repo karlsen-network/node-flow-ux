@@ -9,7 +9,6 @@ export * from 'lit-html/async-directive.js';
 import { AsyncQueueSubscriber } from './flow-async.js';
 
 export * from 'lit-element/lit-element.js';
-//export * from 'lit-html';
 
 import {
 	baseUrl, debug, FlowIconPath, FlowIcons, resolveIcon,
