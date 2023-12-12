@@ -1,4 +1,4 @@
-# flow-ux
+# Karlsen User Interface Framework
 
 Flow UX module is a part of the Flow framework. Documentation for the
 Flow framework and it's components can be found at
@@ -10,8 +10,16 @@ application development. The framework is base on
 provides generic UI construction primitives such as Tabs, Text Area
 controls, Checkboxes, Input controls and more.
 
-## Usage
+## Installing flow-ux
 
 ```
+npm install -g @karlsen/flow-ux
+```
+
+## Cloning flow-ux
+
+```
+git clone https://github.com/karlsen-network/node-flow-ux
+cd node-flow-ux
 npm install
 ```
